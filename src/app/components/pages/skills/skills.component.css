@@ -1,9 +1,9 @@
 .conteudo {
     padding: 6em;
     display: grid;
-    grid-gap: 0 40px;
+    grid-gap: 0 40em;
     grid-template-rows: auto;
-    grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(20em, 1fr));
     float: none;
     position: absolute;
     top: 50%;
@@ -13,12 +13,13 @@
 
 /*texto*/
 .conteudo .box {
-    
+    font-family: 'Courier New', Courier, monospace;
+
     position: relative;
     background-color: transparent;
     backdrop-filter: blur(5px);
-    height: 200px;
-    width: 700px;
+    height: 20em;
+    width: 45em;
     display: flex;
     align-items: center;
  
@@ -26,11 +27,15 @@
 
 .content {
     position: absolute;
-    padding: 10px;
+    padding: 10em;
 }
 
 .content h1{
     color: red;
-    transform: translate(30px);
+    transform: translate(2em);
 
+}
+
+.content p{
+    color: #ffffff;
 }

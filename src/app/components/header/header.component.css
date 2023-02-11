@@ -1,3 +1,5 @@
+
+
 nav{
     
     display: flex;
@@ -6,6 +8,7 @@ nav{
     border-bottom: 1px solid #777;
     background-color: transparent;
     backdrop-filter: blur(9px);
+  
 }
 
 .brand,
@@ -13,10 +16,11 @@ nav{
     display: flex;
     justify-content: center;
     align-items: center;
+    
 }
 
 .brand img{
-    width: 40px;
+    width: 3em;
     margin-right: 0.6em;
 }
 
@@ -25,9 +29,9 @@ nav{
 }
 
 .links li {
-    /*espasamento entre os links*/
     margin-right: 2em;
     list-style: none;
+   
 }
 
 .links a {
@@ -40,3 +44,4 @@ nav{
 #add a:hover{
     background-color: #ffffff;
 }
+

@@ -2,12 +2,13 @@
 .nome h1 {
     font-family: 'Courier New', Courier, monospace;
     padding: 1em;
+    color: rgb(248, 0, 0);
 }
 
 nav {
-    padding: 2px 20px;
-    width: 300px;
-    border-radius: 10px;
+    padding: 0.6em 5em;
+    width: 20em;
+    border-radius: 10em;
     background-color: transparent;
     backdrop-filter: blur(30px);
     float: none;
