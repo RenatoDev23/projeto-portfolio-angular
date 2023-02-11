@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    color: #ffffff;
+}
+body{
+    /*foto do findo da pagina*/
+    background-image: url(./assets/foto03.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+a{
+    /*cor dos links*/
+    text-decoration: none;
+    color: #ffffff;
+    transition: 0.04s;
+}
+a:hover{
+
+    color: #dc0000;
+}
