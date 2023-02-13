@@ -1,27 +1,27 @@
-# Moments
+<h1 align="center">  Projeto </h1>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.4.
 
-## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+  <img alt="projeto" src="home.jpg">
+</p>
+<br>
 
-## Code scaffolding
+## 🚀 Tecnologias
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-## Build
+<img alin="center"  src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white" alt="angularjs">
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+<img alin="center" alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 
-## Running unit tests
+<img alin="center" alt="js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+<img alin="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
-## Running end-to-end tests
+## 💻 Projeto
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+Este projeto foi desenvolvido em angular como primeiro projeto  dos estudos que tem feito  nele si encontro informções sobre mim e links do meu linkedin,github e havera os links dos futuros projetos pessoais.
 
-## Further help
+- [Acesse o projeto finalizado, online](https://renatodev23.github.io/projeto-portfolio-angular/)
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
