@@ -4,38 +4,41 @@ nav{
     
     display: flex;
     justify-content: space-between;
-    padding: 1em;
+    padding: 1rem;
     border-bottom: 1px solid #777;
     background-color: transparent;
     backdrop-filter: blur(9px);
   
 }
 
-.brand,
+.header,
 .links{
+
     display: flex;
+
     justify-content: center;
     align-items: center;
     
 }
 
-.brand img{
-    width: 3em;
-    margin-right: 0.6em;
+/*aqui esta dando erro no link*/
+.header img {
+    width: 1.9rem;
+    margin-right: 0.9rem;
 }
 
-.brand> h2 {
+.header > h2 {
     color: #ffffff;
 }
 
 .links li {
-    margin-right: 2em;
+    margin-right: 2rem;
     list-style: none;
    
 }
 
 .links a {
-    padding: 0.1em 0.3em;
+    padding: 0.1rem 0.3rem;
 }
 
 #add a {

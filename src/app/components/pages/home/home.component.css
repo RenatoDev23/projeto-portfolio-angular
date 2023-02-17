@@ -1,16 +1,16 @@
 
 .nome h1 {
     font-family: 'Courier New', Courier, monospace;
-    padding: 1em;
+    padding: 3rem;
     color: rgb(248, 0, 0);
 }
 
 nav {
-    padding: 0.6em 5em;
-    width: 20em;
-    border-radius: 10em;
+    padding: 0.6rem 5rem;
+    width: 20rem;
+    border-radius: 10rem;
     background-color: transparent;
-    backdrop-filter: blur(30px);
+    backdrop-filter: blur(9px);
     float: none;
     position: relative;
     top: 50%;
@@ -19,16 +19,16 @@ nav {
 }
 
 h3 {
-    padding: 1em;
+    padding: 1rem;
 }
 
 .linkedin h1 {
-    padding: 0.2em;
+    padding: 0.2rem;
     color: rgb(255, 255, 255);
     text-align: center;
 }
 .Github h1 {
-    padding: 0.2em;
+    padding: 0.2rem;
     color: rgb(255, 255, 255);
     text-align: center;
 }

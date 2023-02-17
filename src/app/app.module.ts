@@ -24,7 +24,6 @@ import { SkillsComponent } from './components/pages/skills/skills.component';
   imports: [
     BrowserModule,
     AppRoutingModule,
-    
   ],
   providers: [],
   bootstrap: [AppComponent]
